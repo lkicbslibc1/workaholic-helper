@@ -2,6 +2,7 @@
 Aidy, Chatbot Assistant for Workaholic v.1.0. Inside this program, you can:
 - Manage your work schedule:
       - Add, delete, or edit tasks or appointments
+      - Show the remaining days until the work is due.
       - Prioritize tasks.
       - Receive a notification if the work is due within 3 days.
 - Receive alerts if you have less than 9 hours of sleep to remind workaholics.
@@ -10,3 +11,7 @@ Aidy, Chatbot Assistant for Workaholic v.1.0. Inside this program, you can:
        - (you can leave information for Aidy to update as an assistant; I will update him later).
 - Play games or ask for ways to beat boredom with Edi.
 - Chat for fun (coming soon...).
+
+**Step-to-step**
+1. Clone the repository to your local machine:
+2. 
