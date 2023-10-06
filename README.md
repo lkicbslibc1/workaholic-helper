@@ -17,4 +17,5 @@ Aidy, Chatbot Assistant for Workaholic v.1.0. Inside this program, you can:
 2. open command prompt
 3. type >> cd (location of this project)
 4. type >> pip install -r requirements.txt
+
 This will ensure that all the necessary libraries and packages are installed on your system. Once the installation is complete, you're ready to use the project.
