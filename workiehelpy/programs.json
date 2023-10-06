@@ -1,0 +1,394 @@
+[
+  {
+    "question": "good in iMovie",
+    "answer": "User-friendly video editing with no watermarks and high-resolution exports."
+  },
+  {
+    "question": "What is iMovie?",
+    "answer": "A user-friendly iOS video editing app."
+  },
+  {
+    "question": "pros and cons of iMovie?",
+    "answer": "Pros: User-friendly, no watermarks, high-resolution exports. Cons: Lacks advanced features, iOS exclusive."
+  },
+  {
+    "question": "disadvantages of iMovie?",
+    "answer": "Lacks advanced features, only available on iOS."
+  },
+  {
+    "question": "Where can I use iMovie?",
+    "answer": "On iOS and macOS."
+  },
+  {
+    "question": "Is iMovie on Android?",
+    "answer": "No, it's only for iOS and Mac."
+  },
+  {
+    "question": "iMovie free?",
+    "answer": "Yes, it's free."
+  },
+  {
+    "question": "good in CapCut?",
+    "answer": "Easy-to-use, high-resolution video editing, no watermarks."
+  },
+  {
+    "question": "What is CapCut?",
+    "answer": "A beginner-friendly mobile video editing app."
+  },
+  {
+    "question": "pros and cons of CapCut?",
+    "answer": "Pros: Easy-to-use, high-resolution, extensive tools, no watermarks. Cons: Limited advanced features, mainly for mobile."
+  },
+  {
+    "question": "advantages of CapCut?",
+    "answer": "Easy-to-use, high-resolution, extensive tools, no watermarks."
+  },
+  {
+    "question": "disadvantages of CapCut?",
+    "answer": "Limited advanced features, primarily for mobile."
+  },
+  {
+    "question": "Where can I use CapCut?",
+    "answer": "On iOS and Android."
+  },
+  {
+    "question": "Is CapCut on Android?",
+    "answer": "Yes, CapCut is available on iOS and Android."
+  },
+  {
+    "question": "Is CapCut free?",
+    "answer": "Yes, CapCut is free."
+  },
+  {
+    "question": "good about Adobe Premiere Pro?",
+    "answer": "Extensive editing, multi-track support, Adobe integration, professional-grade."
+  },
+  {
+    "question": "What is Adobe Premiere Pro?",
+    "answer": "Professional video editing software widely used in the industry."
+  },
+  {
+    "question": "pros and cons of Adobe Premiere Pro?",
+    "answer": "Pros: Extensive editing, multi-track support, Adobe integration, professional. Cons: Steeper learning curve, subscription-based."
+  },
+  {
+    "question": "advantages of Adobe Premiere Pro?",
+    "answer": "Extensive editing, multi-track support, Adobe integration, professional-grade."
+  },
+  {
+    "question": "disadvantages of Adobe Premiere Pro?",
+    "answer": "Steeper learning curve, subscription-based."
+  },
+  {
+    "question": "Where is Adobe Premiere Pro available?",
+    "answer": "On Windows and macOS."
+  },
+  {
+    "question": "Adobe Premiere Pro on Android or iOS?",
+    "answer": "No, it's only available on Windows and macOS."
+  },
+  {
+    "question": "Is Adobe Premiere Pro free?",
+    "answer": "Subscription-based with a free trial."
+  },
+  {
+    "question": "good about Lightworks?",
+    "answer": "Free version with advanced features, high-resolution support, intuitive interface."
+  },
+  {
+    "question": "What is Lightworks?",
+    "answer": "Professional video editing software with free and paid versions."
+  },
+  {
+    "question": "pros and cons of Lightworks?",
+    "answer": "Pros: Free version with advanced features, high-resolution support, intuitive interface. Cons: Limited export options in free version, paid version for advanced features."
+  },
+  {
+    "question": "advantages of Lightworks?",
+    "answer": "Free version with advanced features, high-resolution support, intuitive interface."
+  },
+  {
+    "question": "disadvantages of Lightworks?",
+    "answer": "Limited export options in free version, paid version for advanced features."
+  },
+  {
+    "question": "Where is Lightworks available?",
+    "answer": "On Windows, macOS, and Linux."
+  },
+  {
+    "question": "Is Lightworks on Android or iOS?",
+    "answer": "No, it's only available on Windows, macOS, and Linux."
+  },
+  {
+    "question": "Is Lightworks free?",
+    "answer": "There's a free version with a Pro version available for extra features."
+  },
+  {
+    "question": "good about Kinemaster?",
+    "answer": "Multi-layer editing, precise trimming, effects, 4K support, cross-platform."
+  },
+  {
+    "question": "What is Kinemaster?",
+    "answer": "A versatile video editing app for iOS and Android."
+  },
+  {
+    "question": "pros and cons of Kinemaster?",
+    "answer": "Pros: Multi-layer editing, precise trimming, effects, 4K support, cross-platform. Cons: Watermark in free version, some advanced features need a premium subscription."
+  },
+  {
+    "question": "advantages of Kinemaster?",
+    "answer": "Multi-layer editing, precise trimming, effects, 4K support, cross-platform."
+  },
+  {
+    "question": "disadvantages of Kinemaster?",
+    "answer": "Watermark in free version, some advanced features need a premium subscription."
+  },
+  {
+    "question": "Where is Kinemaster available?",
+    "answer": "On iOS and Android."
+  },
+  {
+    "question": "Is Kinemaster free?",
+    "answer": "There's a free version with subscription plans available."
+  },
+  {
+    "question": "good about Canva",
+    "answer": "Various design elements like paper, patterns, doodles, aesthetics, nature, and more."
+  },
+  {
+    "question": "Can I print designs created in Canva?",
+    "answer": "Yes, you can download designs in printable formats."
+  },
+  {
+    "question": "Can I collaborate on Canva projects?",
+    "answer": "Yes, you can collaborate with others on Canva."
+  },
+  {
+    "question": "Is Canva beginner-friendly for design?",
+    "answer": "Yes, Canva is beginner-friendly."
+  },
+  {
+    "question": "difference between Canva's free and Pro versions?",
+    "answer": "Pro offers more features and assets."
+  },
+  {
+    "question": "Can Canva be used for print materials?",
+    "answer": "Yes, Canva offers printing services."
+  },
+  {
+    "question": "Is Canva free?",
+    "answer": "Yes, with a paid Pro option."
+  },
+  {
+    "question": "How do I collaborate in Canva?",
+    "answer": "Click 'Share' to invite others and leave comments."
+  },
+  {
+    "question": "best software for photo editing?",
+    "answer": "Adobe Photoshop and Lightroom are top choices."
+  },
+  {
+    "question": "best software for video editing?",
+    "answer": "Adobe Premiere Pro, Final Cut Pro X (for Mac users), DaVinci Resolve (free and paid versions), and iMovie (for macOS and iOS)."
+  },
+  {
+    "question ": "Best software for presentations",
+    "answer": "Microsoft PowerPoint, Google Slides, and Canva."
+  },
+  {
+    "question": "write documents more efficiently?",
+    "answer": "Use grammar tools, break editing into passes, and seek feedback."
+  },
+  {
+    "question": "mistakes when editing YouTube videos?",
+    "answer": "Avoid poor audio, excessive effects, long intros, and neglecting engagement."
+  },
+  {
+    "question": "video editing techniques for beginners?",
+    "answer": "Start with basics like cutting, transitions, and audio levels."
+  },
+  {
+    "question": "remove background noise?",
+    "answer": "Use audio editing tools with noise reduction filters."
+  },
+  {
+    "question": "improve photo editing skills as a beginner?",
+    "answer": "Practice, follow tutorials, experiment, and seek feedback."
+  },
+  {
+    "question": "What software can students use for video editing and multimedia projects?",
+    "answer": "Adobe Premiere Rush and HitFilm Express are good choices."
+  },
+  {
+    "question": "overcome nervousness?",
+    "answer": "Chew gum to reduce anxiety."
+  },
+  {
+    "question": "stressed",
+    "answer": "Exercise or walking is a great way to manage stress."
+  },
+  {
+    "question": "techniques for presentation?",
+    "answer": "Use storytelling, questions, visuals, and maintain eye contact."
+  },
+  {
+    "question": "make a presentation memorable?",
+    "answer": "Tell a compelling story, use impactful visuals, and repeat key points."
+  },
+  {
+    "question": "Fun coding or programming games to learn?",
+    "answer": "Try 'CodeCombat,' 'CodinGame,' and 'Code.org's Hour of Code' activities."
+  },
+  {
+    "question": "Best programming language for beginners?",
+    "answer": "Python, JavaScript, or Ruby are good choices."
+  },
+  {
+    "question": "Front-end vs. back-end development?",
+    "answer": "Front-end is for user interface, back-end is for server-side logic."
+  },
+  {
+    "question": "Popular language learning apps and websites?",
+    "answer": "Duolingo, Rosetta Stone, Memrise, and more."
+  },
+  {
+    "question": "What is the TOEFL test?",
+    "answer": "An English proficiency test for academic purposes."
+  },
+  {
+    "question": "prepare for IELTS or TOEFL writing",
+    "answer": "Practice essays, seek feedback, and know the expected formats."
+  },
+  {
+    "question": "improve speaking skills for English language?",
+    "answer": "Practice daily, find conversation partners, and work on pronunciation."
+  },
+  {
+    "question": "vocabulary and grammar skills?",
+    "answer": "Read, use vocabulary apps, write with varied words, and study grammar."
+  },
+  {
+    "question": "memorizing a lesson?",
+    "answer": "Review the material thoroughly."
+  },
+  {
+    "question": "visualization help in memorization?",
+    "answer": "Yes, it can make remembering easier."
+  },
+  {
+    "question": "stay focused while studying?",
+    "answer": "Find a quiet space, eliminate distractions, and use techniques like the Pomodoro Technique."
+  },
+  {
+    "question": "manage time for studying?",
+    "answer": "Use the Eisenhower Matrix and create a study schedule."
+  },
+  {
+    "question": "prepare for exams or test ",
+    "answer": "Plan ahead, use practice tests and flashcards, and understand concepts."
+  },
+  {
+    "question": "skills in math or science?",
+    "answer": "Practice, seek help, and break problems into smaller steps."
+  },
+  {
+    "question": "study in the morning or at night?",
+    "answer": "It depends on your alertness; experiment to find your best time."
+  },
+  {
+    "question": "Don't understand lesson",
+    "answer": "Seek help, ask questions, and request clarification."
+  },
+  {
+    "question": "music help studying?",
+    "answer": "Instrumental music can help; lyrics can be distracting."
+  },
+  {
+    "question": "Popular document program options?",
+    "answer": "Microsoft Word, Google Docs, and more."
+  },
+  {
+    "question": "collaborate on document editing?",
+    "answer": "Use cloud-based tools like Google Docs or Microsoft 365."
+  },
+  {
+    "question": "write a resume or portfolio",
+    "answer": "Highlight skills, use action verbs, and tailor it to the job."
+  },
+  {
+    "question": "important in a interview?",
+    "answer": "Research the company, dress appropriately, and practice common interview questions."
+  },
+  {
+    "question": "soft skills?",
+    "answer": "Skills like communication, teamwork, and adaptability."
+  },
+  {
+    "question": "improve communication skills?",
+    "answer": "Practice active listening and effective speaking."
+  },
+  {
+    "question": "handle stress?",
+    "answer": "Exercise or walking is a great way to manage stress"
+  },
+  {
+    "question": "set goals?",
+    "answer": "Think about the results you want to see, Set SMART goals and create a plan."
+  },
+  {
+    "question": "skill should have",
+    "answer": "Skills to build professional relationships and advance your career."
+  },
+  {
+    "question": "deal with a difficult person?",
+    "answer": "Communicate openly and seek mediation if needed."
+  },
+  {
+    "question": "stay organized at work?",
+    "answer": "Use tools like calendars and to-do lists, prioritize tasks, and declutter."
+  },
+  {
+    "question": "ask for a promotion or raise?",
+    "answer": "Prepare, show your value, and request a meeting."
+  },
+  {
+    "question": " important in leadership?",
+    "answer": "Communication, decision-making, and leading by example."
+  },
+  {
+    "question": "develop leadership skills?",
+    "answer": "Learn from mentors, take on challenges, and seek feedback."
+  },
+  {
+    "question": "stress-relief",
+    "answer": "Exercise, mindfulness, and hobbies."
+  },
+  {
+    "question": "maintain work-life balance?",
+    "answer": "Set boundaries, prioritize, and make time for relaxation."
+  },
+  {
+    "question": "time management?",
+    "answer": "Prioritizing tasks, setting goals, and minimizing distractions."
+  },
+  {
+    "question": "How to write engaging content for blogs?",
+    "answer": "Know your audience, use compelling headlines, and tell stories."
+  },
+  {
+    "question": "How to build an online presence as a writer?",
+    "answer": "Create a website, engage on social media, and publish consistently."
+  },
+  {
+    "question": "What's essential in time management?",
+    "answer": "Prioritizing tasks, setting goals, and minimizing distractions."
+  },
+  {
+    "question":  "write engaging content?",
+    "answer": "Know your audience, use compelling headlines, and tell stories."
+  },
+  {
+    "question": "build an online presence as a writer?",
+    "answer": "Create a website, engage on social media, and publish consistently."
+  }
+]
