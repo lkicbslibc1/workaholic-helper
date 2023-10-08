@@ -6,10 +6,14 @@ import random
 import json
 import requests
 import torch
+from transformers import pipeline
+from bs4 import BeautifulSoup
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
+
+summarizer = pipeline("summarization", model="philschmid/bart-large-cnn-samsum")
 
 with open('programs.json', 'r', encoding='utf-8') as json_file:
     data = json.load(json_file)
@@ -844,7 +848,43 @@ def task():
         while True:   
             user_input = input(name + " : ").lower()
             response = None
-            if user_input == "back":
+            if "summarize" in user_input or "summary" in user_input:
+                while True:
+                    time.sleep(0.3)
+                    print("Aidy: Please input the article you want me to summarize (Let me know if you have finished inputting by entering a new line and typing 'done'. ):")
+                    article_text = ""
+
+                    while True: 
+                        line = input()
+                        if line.strip().lower() == 'done':
+                            break
+                        article_text += line + "\n"  
+
+                    print("Aidy: Processing...")
+
+                    try:
+                        summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
+                        chunk_size = 512
+                        chunks = [article_text[i:i+chunk_size] for i in range(0, len(article_text), chunk_size)]
+                        summaries = []
+
+                        for chunk in chunks:
+                            summary = summarizer(chunk, max_length=45, min_length=30, do_sample=False)
+                            summaries.append(summary[0]["summary_text"])
+
+                        full_summary = "\n".join(summaries)
+                        print("Aidy: Here is the summary:")
+                        print(full_summary)
+                    except Exception as e:
+                        print("Aidy: An error occurred during summarization:", str(e))
+                        time.sleep(0.3)
+                    askcontinue = input("Aidy : Do you want to continue summarizing ? \n"+name+" : ").lower()
+                    if askcontinue in agreemessage:
+                        time.sleep(0.3)
+                        continue
+                    else:
+                        break
+            elif user_input == "back":
                 break
 
             else :
