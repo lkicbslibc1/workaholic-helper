@@ -1,6 +1,10 @@
-transformers==4.9.2
-beautifulsoup4==4.10.0
+DateTime==4.3
+time==1.0
+os-sys==3.0
+webbrowser==0.10
+random2==1.0
+json5==0.9
 requests==2.26.0
-torch==1.9.1
+torch==1.10.0
 scikit-learn==0.24.2
 fuzzywuzzy==0.18.0
